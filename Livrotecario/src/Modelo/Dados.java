@@ -1,6 +1,8 @@
 package Modelo;
 
-import Controle.*;
+import Controle.Hotel;
+import Controle.Estante;
+import Controle.Ficheiro;
 import java.util.Date;
 
 public class Dados {
